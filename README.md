@@ -1,6 +1,6 @@
-# MindMaps
 
-Mind Map :
+
+# Mind Map :
 
 
     a diagram in which information is represented 
@@ -8,12 +8,12 @@ Mind Map :
     middle and associated ideas arranged around 
     it.
 
-Installation :
+# Installation :
 
 
                 https://www.edrawsoft.com/
 
-MindMap site Links :
+# MindMap site Links :
 
  1.  https://www.nrbbazaar.com/login?returnUrl=%2F                        
                 
